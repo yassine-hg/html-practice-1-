@@ -1,0 +1,58 @@
+<a href="https://www.amazon.com/" target="_blank" style="color: rgb(0, 183, 255); font-size: 20px;"> Back to amazon
+</a>
+
+<p style="font-size: 30px; font-weight: bold;"> Nike Black Running Shoes </p>
+
+<p style="color: rgb(8, 144, 57); font-weight: bold; font-size: 20px;"> $39 - in stock</p>
+
+<button class="add-button">
+    Add to Cart
+</button>
+
+<button class="buy-button"> 
+    Buy Now
+</button>
+
+<style>
+    .buy-button{
+        background-color: rgb(251, 159, 0);
+        border: none;
+        height: 40px;
+        width: 150px;
+        cursor: pointer;
+        border-radius: 20px;
+        font-weight: bold;
+        transition: background-color 1s;
+        color: 1s;
+
+    }
+    .add-button{
+        color: black;
+        background-color: rgb(255, 217, 0);
+        border: none;
+        height: 40px;
+        width: 150px;
+        border-radius: 20px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 1s;
+        color: 1s;
+    }
+
+    .add-button:hover{
+        background-color: rgb(255, 174, 0);
+    }
+
+    .add-button:active{
+        opacity: 0.15px;
+    }
+
+    .buy-button:hover{
+        background-color: rgb(254, 179, 68);
+    }
+
+    .add-button:active{
+        opacity: 0.12px;
+    }
+</style>
+
