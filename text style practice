@@ -1,0 +1,69 @@
+<style>
+    .video-title{
+        font-family: Arial;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: left;
+        width: 300px;
+        line-height: 26px;
+    }   
+    .m-title{
+        font-family: Arial;
+        font-size: 14px;
+        color: grey;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .talking-title{
+        font-family: Arial;
+        font-size: 25px;
+        color: grey;
+        width: 300px;
+        line-height: 22px;
+        margin-top: 0;
+
+    }
+    .shop-title{
+        margin-top: 100px;
+        margin-left: 50px;
+        font-family: Arial;
+        font-size: 15px;
+        background-color: rgb(214, 44, 35);
+        color: white;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 10px;
+        padding-right: 15px;
+    }
+
+    .snap-link{
+        cursor: pointer;
+    }
+
+    .snap-link:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<p class="video-title">
+    talking tech and AI with goodle Ceo sundar Pichai 
+</p>
+
+<p class="view-title">
+    3.4M views &#183; 6 months ago 
+</p>
+
+<p class="m-title">
+    Marque Brownlee &#10003;
+</p>
+
+<p class="talking-title">
+    I was going to see if my journey was good 
+    but the fact that i meet with you make me 
+    look week and i saw the weather and all the condition 
+</p>
+<p class="shop-title">
+    Shop early for the best selection or holiday favourite . 
+    <span class="snap-link" >  Shop now  </span>  > 
+</p>
