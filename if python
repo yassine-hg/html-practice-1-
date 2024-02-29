@@ -1,0 +1,12 @@
+n = int(input("Entrer la valeur de n : "))
+p = 1
+i = 1
+if n < 0:
+    print("reseyer")
+elif n == 0 :
+    print("egale a 1 ")
+else :
+    while i <= n:
+        p = p*i
+        i = i+1 
+    print(p)
